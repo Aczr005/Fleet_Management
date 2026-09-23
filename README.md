@@ -65,7 +65,7 @@ JAVA-MID/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Abhinavd2004/JAVA-MID.git
+git clone https://github.com/Aczr005/JAVA-MID.git
 ```
 
 2. Open the project in NetBeans IDE.
@@ -114,9 +114,9 @@ This project demonstrates:
 
 ## Author
 
-**Abhinav Dileep**
+**Pranav Pradeep**
 
-GitHub: https://github.com/Abhinavd2004
+GitHub: https://github.com/Aczr005
 
 ---
 
